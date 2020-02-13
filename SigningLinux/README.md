@@ -85,7 +85,6 @@ You should show in your terminal something like this:
 
 3.  Enjoy **signed commits** with your favorite code editor.
 
-Be careful. This only makes possible commit with sign verification if the passphrase is introduced each time. With the
-following command you only introduce it only the first time.
+Be careful. This only makes possible a signed commit if the passphrase is introduced. In order to auto-sign all commits globaly introduce this command:
 
 `git config --global commit.gpgsign true`

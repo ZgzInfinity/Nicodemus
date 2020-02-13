@@ -126,6 +126,6 @@ You should show in your terminal something like this:
 
 3.  Enjoy **signed commits** with your favorite code editor.
 
-Be careful. This only makes possible commit with sign verification if the passphrase is introduced. If you want to avoid this you must introduced the following command:
+Be careful. This only makes possible a signed commit if the passphrase is introduced. In order to auto-sign all commits globaly introduce this command:
 
 `git config --global commit.gpgsign true`
