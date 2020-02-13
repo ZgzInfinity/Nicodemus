@@ -9,7 +9,7 @@
   </p>
 </p>
 
-Description
+# Description
 
 Throughout this tutorial we will learn how to **encrypt all those commits** we make both to our **personal repositories** and to 
 those **repositories in which we appear as contributors**.
@@ -23,5 +23,10 @@ to his operating system.
 &nbsp;
 
 * The following link leads to the Windows guide.
+
+&nbsp;
+
+# Authors
+
 
 

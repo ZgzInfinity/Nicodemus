@@ -1,24 +1,3 @@
-<p align="center">
-    <img src="https://i.ibb.co/r2F9Xfy/Cifrado.png" alt="Logo" width=100height=100>
-  </a>
-
-  <h3 align="center">Nicodemus</h3>
-
-  <p align="center">
-    <b>An esay tutorial about how to sign your commits in GitHub</b> <br>
-  </p>
-</p>
-
-# Description
-
-Throughout this tutorial we will learn how to **encrypt all those commits** we make both to our **personal repositories** and to those **repositories in which we appear as contributors**.
-
-Methodologies will be explained to be able to sign from any **Linux distribution** as well as from any **Windows version**.
-These methodologies will be explained below.
-
-&nbsp;
-
-
 # Signing commits in Linux 
 
 This technique is very similar to the last one. Nevertheless, we dont have any tool to create the GPG keys like in Windows due to we can use directly the terminal. If you want to sign your commits with your Linux distribution you must follow the next steps:

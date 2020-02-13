@@ -1,15 +1,3 @@
-<p align="center">
-    <img src="https://i.ibb.co/r2F9Xfy/Cifrado.png" alt="Logo" width=100height=100>
-  </a>
-
-  <h3 align="center">Nicodemus</h3>
-
-  <p align="center">
-    <b>An esay tutorial about how to sign your commits in GitHub</b> <br>
-  </p>
-</p>
-
-
 # Signing commits in Windows 
 
 In order to sign our commits in Windows you must proceed as follows:
