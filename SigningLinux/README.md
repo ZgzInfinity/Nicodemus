@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://ibb.co/89rhLzn" alt="Logo" width=100height=100>
+    <img src="https://i.ibb.co/0rCwRBp/gnulinux.jpg" alt="Logo" width=100height=100>
   </a>
 
   <h3 align="center">Linux</h3>
