@@ -15,18 +15,19 @@ Throughout this tutorial we will learn how to **encrypt all those commits** we m
 those **repositories in which we appear as contributors**.
 
 These methodologies have been explained to be able to sign from any **Linux distribution** as well as from any **Windows version**.
-These techniques have been located in different folders in order to make it easier for the user to find the guide he needs according 
-to his operating system.
-
-* The following link leads to the Linux guide.
+These techniques have been located in different folders in order to make it easier for the user to find the guide he needs
+according to his operating system.
 
 &nbsp;
 
-* The following link leads to the Windows guide.
+* The following link leads to the [Linux guide](https://github.com/ZgzInfinity/Nicodemus/tree/master/SigningLinux):
+
+&nbsp;
+
+* The following link leads to the [Windows guide](https://github.com/ZgzInfinity/Nicodemus/tree/master/SigningWindows):
 
 &nbsp;
 
 # Authors
 
-
-
+* [Rubén Rodríguez](https://github.com/ZgzInfinity)
