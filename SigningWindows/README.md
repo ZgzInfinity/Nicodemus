@@ -68,8 +68,7 @@ It doesn't have to be the previous ones, you can choose the  one you like best.
 You should show in your terminal something like this:
 
 <p align="center">
-    <img src="
-https://i.ibb.co/L1gv9bq/clave-ejemplo.png">
+   <img src="https://i.ibb.co/L1gv9bq/clave-ejemplo.png">
 </p>
 	
 * Exexute this command substituting in the GPG key ID what key you would like to use. In this example they key is  `1BE960B05BA58111`.
