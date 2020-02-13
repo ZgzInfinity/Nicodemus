@@ -14,8 +14,9 @@
 
 In order to sign our commits in Windows you must proceed as follows:
 
-* First of all, we need to install a Git client such as **GitHub Desktop** on our Windows operating system. This tool can be easily downloaded from the following website:
-
+* First of all, we need to install a Git client such as **GitHub Desktop** or **SourceTree** on our Windows operating system. We are going to use **GitHub Desktop**
+  for this tutorial, but with **SourceTree** this technique also is effective. This tool can be easily downloaded from the following website:
+  
 	* https://desktop.github.com/
  
 It doesn't have to be the previous ones, you can choose the  one you like best.
