@@ -2,16 +2,20 @@
     <img src="https://i.ibb.co/tX9YHSd/windows.png" alt="Logo" width=100height=100>
   </a>
 
-  <h3 align="center">Linux</h3>
+  <h3 align="center">Windows</h3>
 
   <p align="center">
     <b>Signing commits in Windows</b> <br>
   </p>
 </p>
 
+&nbsp;
+
+
 In order to sign our commits in Windows you must proceed as follows:
 
-* First of all, we need to install a Git client such as **GitHub Desktop** on our Windows operating system. This tool can be easily downloaded from the following websites, respectively.
+* First of all, we need to install a Git client such as **GitHub Desktop** on our Windows operating system. This tool can be easily downloaded from the following website:
+
 	* https://desktop.github.com/
  
 It doesn't have to be the previous ones, you can choose the  one you like best.

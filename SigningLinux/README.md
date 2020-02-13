@@ -9,6 +9,9 @@
   </p>
 </p>
 
+&nbsp;
+
+
 This technique is very similar to the last one. Nevertheless, we dont have any tool to create the GPG keys like in Windows due to we can use directly the terminal. If you want to sign your commits with your Linux distribution you must follow the next steps:
 
 * First of all, you have to open a terminal a generate a pair of GPG keys with the following command:
