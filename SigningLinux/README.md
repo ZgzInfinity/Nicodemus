@@ -1,4 +1,13 @@
-# Signing commits in Linux 
+<p align="center">
+    <img src="https://ibb.co/89rhLzn" alt="Logo" width=100height=100>
+  </a>
+
+  <h3 align="center">Linux</h3>
+
+  <p align="center">
+    <b>Signing commits in Linux</b> <br>
+  </p>
+</p>
 
 This technique is very similar to the last one. Nevertheless, we dont have any tool to create the GPG keys like in Windows due to we can use directly the terminal. If you want to sign your commits with your Linux distribution you must follow the next steps:
 

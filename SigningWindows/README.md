@@ -1,4 +1,13 @@
-# Signing commits in Windows 
+<p align="center">
+    <img src="https://ibb.co/tKmKv8L" alt="Logo" width=100height=100>
+  </a>
+
+  <h3 align="center">Linux</h3>
+
+  <p align="center">
+    <b>Signing commits in Windows</b> <br>
+  </p>
+</p>
 
 In order to sign our commits in Windows you must proceed as follows:
 
@@ -71,9 +80,9 @@ You should show in your terminal something like this:
    <img src="https://i.ibb.co/L1gv9bq/clave-ejemplo.png">
 </p>
 	
-* Exexute this command substituting in the GPG key ID what key you would like to use. In this example they key is  `1BE960B05BA58111`.
+* Exexute this command substituting in the GPG key ID what key you would like to use. In this example they key is  `3B3AF4BD7A3BEBDB`.
     ```
-    $ gpg --armor --export 1BE960B05BA58111
+    $ gpg --armor --export 3B3AF4BD7A3BEBDB
     ```
  This command prints the GPG key ID, in ASCII armor format.
 
