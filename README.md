@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.ibb.co/r2F9Xfy/Cifrado.png" alt="Logo" width=100height=100>
+    <img src="https://i.ibb.co/7Kz2VMN/logo.png" alt="Logo" width=100height=100>
   </a>
 
   <h3 align="center">Nicodemus</h3>
